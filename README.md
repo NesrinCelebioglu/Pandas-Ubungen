@@ -1,4 +1,4 @@
-# Pandas-Übungsaufgaben (Kurzversion)
+# Pandas-Übungsaufgaben 
 
 Dieses Repository enthält Übungen mit den Datensätzen **Titanic** und **Tips** aus Seaborn. Ziel ist das Üben von Datenanalyse mit Pandas.
 
